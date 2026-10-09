@@ -1,0 +1,19 @@
+Emily Chen
+Machine Learning Engineer
+emily.chen@example.com | Boston, MA
+
+SUMMARY
+ML engineer shipping NLP models to production with Python and PyTorch.
+
+SKILLS
+Python, PyTorch, Transformers, MLflow, Docker, GCP
+
+EXPERIENCE
+Machine Learning Engineer - Harbor AI (2021 - Present)
+- Fine-tuned transformer models for document classification
+- Built a Python model serving API handling 500 requests per second
+Research Assistant - Boston University NLP Lab (2019 - 2021)
+- Published two papers on text classification
+
+EDUCATION
+M.S. Computer Science, Boston University, 2021

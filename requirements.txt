@@ -1,0 +1,5 @@
+anthropic
+pypdf
+python-docx
+python-dotenv
+pytest
