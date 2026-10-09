@@ -4,14 +4,14 @@ A terminal chat app where Claude (Anthropic) reads, lists, searches and writes r
 
 ## Demo video
 
-[demo-video.mov](demo-video.mov) is a 2-3 minute recording of the assistant answering questions by calling the file tools.
+[demo-video.mov](demo-video.mp4) is a 2-3 minute recording of the assistant answering questions by calling the file tools.
 
-<video src="demo-video.mov" controls width="100%"></video>
+<video src="demo-video.mp4" controls width="100%"></video>
 ## Project structure
 
 ```
 main.py                  -> run this to chat in the terminal
-demo-video.mov           -> demo video of tool calling in action
+demo-video.mp4           -> demo video of tool calling in action
 fs_tools.py              -> Part A: the file tools (read, list, write, search)
 llm_file_assistant.py    -> Part B: connects the tools to Claude
 sample_data/resumes/     -> 8 dummy resumes (PDF, DOCX, TXT)
