@@ -6,6 +6,7 @@ A terminal chat app where Claude (Anthropic) reads, lists, searches and writes r
 
 [demo-video.mov](demo-video.mov) is a 2-3 minute recording of the assistant answering questions by calling the file tools.
 
+<video src="demo-video.mov" controls width="100%"></video>
 ## Project structure
 
 ```
